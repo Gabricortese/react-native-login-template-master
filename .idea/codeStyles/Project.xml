@@ -1,0 +1,11 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <codeStyleSettings language="JavaScript">
+      <option name="RIGHT_MARGIN" value="80" />
+      <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
+      <indentOptions>
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
